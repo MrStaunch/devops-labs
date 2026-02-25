@@ -1,0 +1,2 @@
+This is my third file
+and I am curious to learn more about git and github
